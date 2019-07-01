@@ -17,3 +17,11 @@
 
 ## 附录
 ### [UI 控件缩写表](/Article/UI控件缩写表/README.md)
+
+
+
+> 作者：Brainbg(白雨)  
+> GitHub：https://github.com/Brainbg   
+> 博客：https://www.brainbg.com/    
+> 简书：https://www.jianshu.com/u/94518ede7100   
+> CSDN：https://blog.csdn.net/u014720022  

@@ -1,11 +1,11 @@
 # Resource 资源文件规范
-- [Resource 资源文件规范](#resource-资源文件规范)
+- [Resource 资源文件规范](#Resource-资源文件规范)
   - [1.anim](#1anim)
   - [2.animtor](#2animtor)
   - [3.color](#3color)
   - [4.drawable](#4drawable)
     - [4.1 图片文件(.png/.jpg)](#41-图片文件pngjpg)
-    - [4.2 Drawable Resource File (.xml)](#42-drawable-resource-file-xml)
+    - [4.2 Drawable Resource File (.xml)](#42-Drawable-Resource-File-xml)
   - [font](#font)
   - [interpolator](#interpolator)
   - [layout](#layout)
@@ -17,7 +17,7 @@
   - [value](#value)
     - [colors](#colors)
     - [dimens](#dimens)
-    - [Strings](#strings)
+    - [Strings](#Strings)
     - [styles](#styles)
   - [xml](#xml)
   - [id命名](#id命名)
@@ -105,7 +105,7 @@
 |**RecyclerView**|店铺|店铺列表||store_recycle_item_storeinfo|
 |                |店铺|店铺列表|头部|store_recycle_header_storeinfo|
 |                |店铺|店铺列表|尾部|store_recycle_footer_storeinfo|
-|**ListView**    |商品|商品列表||goods_lit_item_storeinfo|
+|**ListView**    |商品|商品列表||goods_list_item_storeinfo|
 |                |商品|商品列表|头部|goods_list_header_storeinfo|
 |                |商品|商品列表|尾部|goods_list_footer_storeinfo|
 |**GridView**|||||
